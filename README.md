@@ -23,7 +23,7 @@
     <img src="https://cdn.simpleicons.org/macos/000000" alt="macOS" width="40" height="40"/>
   </a>
   <!-- Alpine Linux -->
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://alpinelinux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/alpinelinux/0d597f" alt="Alpine Linux" width="40" height="40"/>
   </a>
   <!-- OpenBSD -->
